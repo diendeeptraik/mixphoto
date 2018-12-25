@@ -996,7 +996,7 @@ function change_mode() {
 	else{
 		$('head').append($('<link>',{
 			rel: 'stylesheet',
-			href:  "https://cdn.jsdelivr.net/gh/diendeeptraik/mixphoto@df84a32/darkstyle.css",
+			href:  "https://cdn.jsdelivr.net/gh/diendeeptraik/mixphoto@a4e60f9/darkstyle.css",
 			id : 'night_mode_css'
 		}))
 	}
